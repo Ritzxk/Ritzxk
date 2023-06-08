@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 📑 I am interested in Data Science, Machine Learning, and Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
-- ✉️ reach me at : ritzap449@gmail.com
+- ✉️ How to reach me : ritzap449@gmail.com
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
