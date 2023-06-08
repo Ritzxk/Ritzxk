@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I am Ritesh Kumar
 
 <!--
 **Ritzxk/Ritzxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📑 I am interested in Data Science, Machine Learning, and Artificial Intelligence.
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
+- ✉️ reach me at : ritzap449@gmail.com
