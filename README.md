@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
 - ✉️ How to reach me : ritzap449@gmail.com
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+- ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritzxk&show_icons=true&theme=transparent)
