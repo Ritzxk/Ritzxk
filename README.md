@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- themes: (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 -->
 - 📑 I am interested in Data Science, Machine Learning, and Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
-- ✉️ How to reach me : ritzap449@gmail.com
-- ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritzxk&show_icons=true&theme=transparent)
+- ✉️ How to reach me : ritzap449@gmail.com <br><br>
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritzxk&show_icons=true&theme=tokyonight)
